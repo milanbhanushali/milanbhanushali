@@ -427,7 +427,7 @@ ul.address-text b {
 /*-- //banner --*/
 /*-- about --*/
 .about,.experience,.projects,.contact{
-  padding:100px 0px;
+  padding:0px 0px;
 }
 h4.title-w3ls {
     color: #000;
@@ -1044,7 +1044,7 @@ a.lightbox img:hover {
     letter-spacing: 3px;
   }
   .about, .experience, .projects, .contact {
-    padding: 80px 0px;
+    padding: 0px 0px;
   }
   h4.title-w3ls {
     font-size: 26px;
@@ -1655,7 +1655,7 @@ a.lightbox img:hover {
     top: -27%;
   }
   .banner {
-    margin-bottom: 31.6em;
+    
     min-height: 310px;
   }
   h5.sub {
@@ -1755,8 +1755,7 @@ a.lightbox img:hover {
     margin: 3px !important;
   }
   .banner {
-    margin-bottom: 26.99em;
-    min-height: 270px;
+
   }
   .banner-right-w3-agileits {
     padding: 25px;
@@ -1850,7 +1849,7 @@ a.lightbox img:hover {
     padding: 1em .8em 2em;
   }
   .banner {
-    margin-bottom: 28.45em;
+    margin-bottom: 0em;
     min-height: 240px;
   }
   .banner-btm-grid-w3ls {
@@ -1987,7 +1986,7 @@ a.lightbox img:hover {
     top: 10.4em;
   }
   .banner {
-    margin-bottom: 30.45em;
+
     background: url(../images/banner.jpg) no-repeat -16px 0px;
     background-size: cover;
     min-height: 192px;
@@ -2044,7 +2043,7 @@ a.lightbox img:hover {
     font-size: 11.5px;
   }
   .banner {
-    margin-bottom: 29.2em;
+
     background: url(../images/banner.jpg) no-repeat -5px 0px;
     background-size: cover;
     min-height: 160px;
